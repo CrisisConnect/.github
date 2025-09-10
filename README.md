@@ -1,6 +1,4 @@
-Perfect, let’s give it that **“startup-style intro”** vibe 🚀 — short, punchy, and community-inviting. Here’s a refined **GitHub Organization README** for you:
 
----
 
 # 🌍 Crisis Connect
 
